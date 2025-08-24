@@ -144,10 +144,8 @@ if ($_POST) {
                         
                         <div class="text-center">
                             <small class="text-muted">
-                                <strong>Usuarios de prueba:</strong><br>
-                                Admin: admin@biblioteca.edu / password<br>
-                                Bibliotecario: bibliotecaria@biblioteca.edu / password<br>
-                                Alumno: juan.perez@estudiante.edu / password
+                                <strong>¿Algún problema?</strong><br>
+                                ¡Recuerda consultar con tu administrador para resolverlo!<br>
                             </small>
                         </div>
                     </div>
