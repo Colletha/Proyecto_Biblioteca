@@ -109,8 +109,8 @@ if ($_POST) {
                 <div class="login-card">
                     <div class="login-header">
                         <i class="fas fa-book fa-3x mb-3"></i>
-                        <h3>Sistema Biblioteca</h3>
-                        <p class="mb-0">Acceso al Sistema</p>
+                        <h3>Welcome to Librify!</h3>
+                        <p class="mb-0">Descubre tu mundo</p>
                     </div>
                     <div class="login-body">
                         <?php if ($error): ?>
@@ -144,10 +144,9 @@ if ($_POST) {
                         
                         <div class="text-center">
                             <small class="text-muted">
-                                <strong>Usuarios de prueba:</strong><br>
-                                Admin: admin@biblioteca.edu / password<br>
-                                Bibliotecario: bibliotecaria@biblioteca.edu / password<br>
-                                Alumno: juan.perez@estudiante.edu / password
+                                <strong>¿Tienes algún problema</strong><br>
+                                ¡Ponte en contacto con tu administrador!<br>
+                            
                             </small>
                         </div>
                     </div>
