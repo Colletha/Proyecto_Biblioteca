@@ -109,8 +109,8 @@ if ($_POST) {
                 <div class="login-card">
                     <div class="login-header">
                         <i class="fas fa-book fa-3x mb-3"></i>
-                        <h3>Sistema Biblioteca</h3>
-                        <p class="mb-0">Acceso al Sistema</p>
+                        <h3>Welcome to Librify!</h3>
+                        <p class="mb-0">Accede a tu mundo</p>
                     </div>
                     <div class="login-body">
                         <?php if ($error): ?>
